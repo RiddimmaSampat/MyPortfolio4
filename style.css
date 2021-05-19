@@ -1,0 +1,46 @@
+.header{
+    padding:50px;
+    background-color:#BBFFFF;
+    display:flex;
+    justify-content: center;
+}
+
+.menu{
+   
+padding:30px;
+    background-color:#E6A2FF;
+    display:flex;
+   justify-content: center; 
+}
+
+.Grid{
+    display:flex;
+    flex-direction: row;
+justify-content: space-evenly;
+}
+
+
+
+.FOOTER{
+
+    background-color:#E6A2FF;
+    display: flex;
+    align-content: flex-end;
+    justify-content: center;
+}
+
+a:link{
+    color:white;
+}
+
+a:visited{
+    color:white
+}
+
+.item{
+    opacity:100%;
+}
+
+.item:hover{
+    opacity:50%;
+    }
